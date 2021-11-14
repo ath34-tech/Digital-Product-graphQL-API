@@ -101,4 +101,4 @@ app.use('/', expressGraphQL({
     schema: schema,
     graphiql: true
 }))
-app.listen(5000, () => console.log('Server Running'))
+app.listen(process.env.PORT || 5000, () => console.log('Server Running'))
