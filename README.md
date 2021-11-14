@@ -9,7 +9,7 @@ This is an graphQL API that i made for ecommerce projects, if you want to showca
 You can access API from here :https://digiproducts-api-graphql.herokuapp.com/.
 #### GET 
 
-```http
+```
   GET https://digiproducts-api-graphql.herokuapp.com/
 ```
 On get request on given endpoint you will see the default
@@ -19,7 +19,7 @@ graphql schema gui.
 
 **Using CURL :**
 
-```http
+```
   curl -X POST https://digiproducts-api-graphql.herokuapp.com/ -d '
 query {
   allProduct {
