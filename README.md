@@ -1,6 +1,7 @@
 
-# Open source API for ecommerce projects
-
+<h1 align="center">Digi-products ecom API</h1>
+<h3 align="center">Open source API for ecommerce projects<h3>
+ <hr/>
 <table>
  <tr>
 <td valign="top"><img src="https://img.shields.io/github/issues/ath34-tech/Digital-Product-graphQL-API"/></td>
