@@ -7,7 +7,7 @@
 <td valign="top"><img src="https://img.shields.io/github/forks/ath34-tech/Digital-Product-graphQL-API"/></td>
 <td valign="top"><img src="https://img.shields.io/github/stars/ath34-tech/Digital-Product-graphQL-API"/></td>
 <td valign="top"><img src="https://img.shields.io/github/license/ath34-tech/Digital-Product-graphQL-API"/></td>
-<td valign="top"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fath34-tech%2FDigital-Product-graphQL-API"/></td>
+<td valign="top">[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fath34-tech%2FDigital-Product-graphQL-API)</td>
   </tr>
   </table>
 
