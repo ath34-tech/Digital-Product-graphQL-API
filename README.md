@@ -1,10 +1,15 @@
 
 # Open source API for ecommerce projects
-<img src="https://img.shields.io/github/issues/ath34-tech/Digital-Product-graphQL-API"/>
-<img src="https://img.shields.io/github/forks/ath34-tech/Digital-Product-graphQL-API"/>
-<img src="https://img.shields.io/github/stars/ath34-tech/Digital-Product-graphQL-API"/>
-<img src="https://img.shields.io/github/license/ath34-tech/Digital-Product-graphQL-API"/>
-<img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fath34-tech%2FDigital-Product-graphQL-API"/>
+
+<table>
+ <tr>
+<td valign="top"><img src="https://img.shields.io/github/issues/ath34-tech/Digital-Product-graphQL-API"/></td>
+<td valign="top"><img src="https://img.shields.io/github/forks/ath34-tech/Digital-Product-graphQL-API"/></td>
+<td valign="top"><img src="https://img.shields.io/github/stars/ath34-tech/Digital-Product-graphQL-API"/></td>
+<td valign="top"><img src="https://img.shields.io/github/license/ath34-tech/Digital-Product-graphQL-API"/></td>
+<td valign="top"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fath34-tech%2FDigital-Product-graphQL-API"/></td>
+  </tr>
+  </table>
 
 This is an graphQL API that i made for ecommerce projects, if you want to showcase a ecommerce project on your resume you can save your time by using ***digiproducts-api-graphql***.
 
